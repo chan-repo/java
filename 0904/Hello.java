@@ -1,5 +1,7 @@
-class Hello {
-  public static void (String[], args) {
-    System.out.println("Hello JAVA World!!");
-  }
+package week1;
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("week1.Hello, Java World!");
+    }
 }

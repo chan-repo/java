@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DatabaseConfig {
-    private static final String URL = "jdbc:mysql://localhost:3306/material_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul";
+        private static final String URL = "jdbc:mysql://localhost:3306/material_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul";
     private static final String USER = "root";
     private static final String PASSWORD = "genii2024A!";
 
